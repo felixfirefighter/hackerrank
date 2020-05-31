@@ -1,3 +1,4 @@
+// Problem: https://www.hackerrank.com/challenges/kangaroo
 static String kangaroo(int x1, int v1, int x2, int v2) {
   if(v1 <= v2) {
       return "NO";
